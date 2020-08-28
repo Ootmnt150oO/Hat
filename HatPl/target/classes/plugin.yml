@@ -1,0 +1,8 @@
+name: Hat
+author: yuziouo
+version: 1.0
+main: tmnt150.hat.Main
+commands:
+  hat:
+    usage: /hat
+    description: Hat
